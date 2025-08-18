@@ -2,10 +2,6 @@
 
 A curated list of non-coding use cases for Claude Code
 
-## General
-
-- Chatting (replacement for web UI or Claude desktop app) [source](https://x.com/asankhaya/status/1957287825943970098)
-
 ## Writing / Publishing
 
 - Fixing typos and grammatical mistakes [source](https://x.com/paradite_/status/1957105677937033625)
@@ -23,3 +19,11 @@ A curated list of non-coding use cases for Claude Code
 - Automating spreadsheet work [source](https://x.com/danteocualesjr/status/1957279975784288387)
 - Tracking goals [source](https://x.com/thomasthecosmic/status/1957388434332344610)
 - Taking notes [source](https://x.com/thomasthecosmic/status/1957388434332344610)
+
+## Server management
+
+- Setting up and managing a new server [source](https://x.com/thomasthecosmic/status/1957388434332344610)
+
+## General / Others
+
+- Chatting (replacement for web UI or Claude desktop app) [source](https://x.com/asankhaya/status/1957287825943970098)
