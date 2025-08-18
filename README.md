@@ -1,6 +1,6 @@
 # Claude Code is All You Need
 
-A curated list of non-coding use cases for Claude Code, meant as inspiration for people to think about and discover new ways of using Claude Code.
+A curated list of non-coding use cases for Claude Code, intended to inspire people to think about and discover new ways of using Claude Code.
 
 ## Writing / Publishing
 
