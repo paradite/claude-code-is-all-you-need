@@ -14,9 +14,13 @@ A curated list of non-coding use cases for Claude Code, intended to inspire peop
 - Cleaning up and categorizing the download folder [source](https://x.com/sebish/status/1957395206275285227)
 - Organizing folders and file names [source](https://x.com/Nimish_says/status/1957354900180095134)
 
-## Productivity
+## Data / Excel / Automation
 
 - Automating spreadsheet work [source](https://x.com/danteocualesjr/status/1957279975784288387)
+- Data indexing and excel work [source](https://www.reddit.com/r/ClaudeAI/comments/1n4jivt/not_a_programmer_but_claude_code_literally_saves/)
+
+## Productivity
+
 - Tracking goals [source](https://x.com/thomasthecosmic/status/1957388434332344610)
 - Taking notes [source](https://x.com/thomasthecosmic/status/1957388434332344610)
 
