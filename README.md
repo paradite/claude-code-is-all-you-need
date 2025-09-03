@@ -28,6 +28,10 @@ A curated list of non-coding use cases for Claude Code, intended to inspire peop
 
 - Setting up and managing a new server [source](https://x.com/thomasthecosmic/status/1957388434332344610)
 
+## File / Data Management
+
+- Figuring out why Google Drive space was full (Identify big files) [source](https://www.reddit.com/r/gsuite/comments/1n6for6/my_google_drive_was_mysteriously_full_so_i_built/)
+
 ## General / Others
 
 - Chatting (replacement for web UI or Claude desktop app) [source](https://x.com/asankhaya/status/1957287825943970098)
