@@ -5,8 +5,8 @@ A curated list of non-coding use cases for Claude Code, intended to inspire peop
 ## Writing / Publishing
 
 - Fixing typos and grammatical mistakes [source](https://x.com/paradite_/status/1957105677937033625)
-- Replacing placeholder images in blog posts with markdown syntax for actual images in the local file system [source](https://x.com/paradite_/status/1957105677937033625)
-- Formatting markdown with images into rich text for copy-pasting into the SubStack editor (by writing a script) [source](https://x.com/paradite_/status/1957105677937033625)
+- Replacing placeholder images in blog posts with actual images in markdown [source](https://x.com/paradite_/status/1957105677937033625)
+- Formatting markdown with images for copy-pasting into the SubStack editor [source](https://x.com/paradite_/status/1957105677937033625)
 
 ## Documentation
 
