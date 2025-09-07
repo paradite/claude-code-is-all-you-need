@@ -8,6 +8,10 @@ A curated list of non-coding use cases for Claude Code, intended to inspire peop
 - Replacing placeholder images in blog posts with markdown syntax for actual images in the local file system [source](https://x.com/paradite_/status/1957105677937033625)
 - Formatting markdown with images into rich text for copy-pasting into the SubStack editor (by writing a script) [source](https://x.com/paradite_/status/1957105677937033625)
 
+## Documentation
+
+- Writing technical documentation [source](https://www.linkedin.com/pulse/from-week-long-30-minute-process-how-claude-code-our-technical-john-bhfvc/)
+
 ## Organization
 
 - Categorizing and re-arranging bookmarks [source](https://x.com/im_benhur/status/1957441383645552919)
