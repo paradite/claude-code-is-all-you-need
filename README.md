@@ -21,6 +21,10 @@ A curated list of non-coding use cases for Claude Code, intended to inspire peop
 - Automating spreadsheet work [source](https://x.com/danteocualesjr/status/1957279975784288387)
 - Data indexing and excel work [source](https://www.reddit.com/r/ClaudeAI/comments/1n4jivt/not_a_programmer_but_claude_code_literally_saves/)
 
+## Video Editing
+
+- Using Claude Code to edit videos [source](https://x.com/trq212/status/1947706205172068624)
+
 ## Presentation / Slides
 
 - Making interactive presentations / slides [source](https://x.com/rileybrown_ai/status/1965242180957868133)
@@ -29,6 +33,7 @@ A curated list of non-coding use cases for Claude Code, intended to inspire peop
 
 - Tracking goals [source](https://x.com/thomasthecosmic/status/1957388434332344610)
 - Taking notes [source](https://x.com/thomasthecosmic/status/1957388434332344610)
+- [Claude Code SDK] Making an email agent [source](https://x.com/trq212/status/1968405908301709582)
 
 ## Server Management
 
